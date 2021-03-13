@@ -2,7 +2,7 @@
 
 ## 2021-03-12
 ### Changed
-- Fixed hypens showing up as '#' in `corpus/Gogol_Taras.txt`
+- Fixed hypens showing up as '#' in `Gogol_Taras.txt`, `Chechov_Dama.txt`, `Dostoyevsky_Biesy.txt` and `Dostoyevsky_Idiot.txt`
 
 ### Added
 - This changelog
